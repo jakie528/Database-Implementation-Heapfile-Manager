@@ -1,7 +1,4 @@
 //----------------------------------------
-// Team members:
-//      Jiaqi Cheng (9079840592), Skylar Hou (9084989582), Ziqi Liao (9084667097)
-//
 // This heapfile.c implement a File Manager for Heap Files
 // it also provides a scan mechanism to search a heap file for records that satisfy a search predicate called a filter
 //----------------------------------------
